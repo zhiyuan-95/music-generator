@@ -1,0 +1,3 @@
+# music-generator
+## with given set of music note use RNN to generate music
+### Built a full end-to-end music generation system using character-level LSTM RNNs in TensorFlow, reproducing and extending the MIT Deep Learning Lab’s ABC-notation music model. Implemented data preprocessing, batching, LSTM architecture, loss functions, and training pipelines from scratch, and integrated Comet ML for systematic experiment logging, hyperparameter tuning, and model comparison. Developed automated hyperparameter search, implemented gradient-based training loops, and generated novel ABC-format music by sampling from the trained recurrent model.
